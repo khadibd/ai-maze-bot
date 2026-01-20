@@ -5,6 +5,8 @@
 An interactive Python application that uses \*\*Reinforcement Learning (Q-Learning)\*\* to find the shortest path through a maze. 
 
 
+______________________________________________________________________________________________________________________________________________________________________________
+
 
 \## Features
 
@@ -16,6 +18,7 @@ An interactive Python application that uses \*\*Reinforcement Learning (Q-Learni
 
 
 
+______________________________________________________________________________________________________________________________________________________________________________
 
 
 
@@ -26,5 +29,49 @@ An interactive Python application that uses \*\*Reinforcement Learning (Q-Learni
 
 &nbsp;  ```bash
 
-&nbsp;  git clone \[https://github.com/YOUR\_USERNAME/YOUR\_REPOSITORY\_NAME.git](https://github.com/YOUR\_USERNAME/YOUR\_REPOSITORY\_NAME.git)
+&nbsp;  git clone https://github.com/khadibd/ai-maze-bot
+
+______________________________________________________________________________________________________________________________________________________________________________
+
+
+2\. Install dependencies:
+
+
+```bash
+pip install -r requirements.txt
+```
+______________________________________________________________________________________________________________________________________________________________________________
+
+3\. Run the application:
+
+```bash
+python main.py
+```
+
+______________________________________________________________________________________________________________________________________________________________________________
+
+Parameters
+Learning Rate: 0.7
+
+Discount Factor: 0.9
+
+Episodes: 15,000
+
+
+______________________________________________________________________________________________________________________________________________________________________________
+
+👩‍💻 Author
+
+Eng. Khadija Bouadi
+
+📧 Contact
+
+For any queries, reach out to:
+
+GitHub: @khadibd
+
+Email: khadijabouadi00@gmail.com
+
+
+
 
