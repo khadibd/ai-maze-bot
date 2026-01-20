@@ -2,7 +2,7 @@
 
 
 
-An interactive Python application that uses \*\*Reinforcement Learning (Q-Learning)\*\* to find the shortest path through a maze. 
+An interactive Python application that uses Reinforcement Learning (Q-Learning) to find the shortest path through a maze. 
 
 
 ______________________________________________________________________________________________________________________________________________________________________________
@@ -58,6 +58,15 @@ Discount Factor: 0.9
 Episodes: 15,000
 
 
+
+
+
+
+
+
+
+
+
 ______________________________________________________________________________________________________________________________________________________________________________
 
 👩‍💻 Author
@@ -71,6 +80,7 @@ For any queries, reach out to:
 GitHub: @khadibd
 
 Email: khadijabouadi00@gmail.com
+
 
 
 
